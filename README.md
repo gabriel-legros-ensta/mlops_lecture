@@ -90,7 +90,7 @@ Structure your data science code into modular, testable pipelines made of nodes,
 Monitor your models once they are deployed: detect data drift, check data quality and generate visual reports on model performance over time.
 
 ### CI/CD with GitHub Actions
-
+test
 **Demo project:** [`cicd-demo/`](cicd-demo) · **Workflow:** [`.github/workflow/ci.yml`](.github/workflow/ci.yml)
 
 Automate testing and deployment on every push and pull request. The workflow sets up Python 3.11, installs the dependencies, runs the tests with `pytest` and runs a (simulated) deployment on `main`.
